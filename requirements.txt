@@ -1,6 +1,7 @@
 streamlit
 tensorflow
 numpy
-Pillow
+pillow
 matplotlib
 pathlib
+keras
